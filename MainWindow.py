@@ -2,7 +2,6 @@ import tkinter as tk
 import cv2
 import PIL.Image, PIL.ImageTk
 import os
-import openni
 import numpy as np
 
 class MainWindow():
