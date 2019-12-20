@@ -3,7 +3,7 @@ This tool allow to move mouse cursor on a depthmap and visualize the
 depth pixel value in real time.
 Depthmap is a 16 bit encoded, using OpenNI2 for example.
 
-![Image](https://i.ibb.co/kgLgV3K/guiDV.png)
+![Image](https://i.ibb.co/nwWMPzv/guiDV.png)
 
 # Requirements
 
